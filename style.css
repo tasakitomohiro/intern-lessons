@@ -1,0 +1,21 @@
+.header-logo {
+  float: left;
+}
+
+li {
+  list-style: none;
+  float: left;
+}
+
+.header-logo {
+  background-color: rgb(255, 105, 219);
+  width: 20%;
+}
+
+body{
+  background-color: blue;
+}
+
+.title{
+  color: red;
+}
