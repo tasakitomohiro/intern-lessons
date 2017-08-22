@@ -11,3 +11,6 @@ body{
 .btn{
   color: black;
 }
+.navbar-brand{
+  background-color: orange;
+}
