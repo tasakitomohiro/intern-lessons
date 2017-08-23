@@ -1,16 +1,21 @@
-.title{
-  color: red;
+.menu{
+  background-color: ;
 }
-li {
-  list-style: none;
-}
-body{
-  background-color: black;
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover{
   color: white;
 }
-.btn{
-  color: black;
+.navbar{
+  margin-bottom: 0px;
 }
-.navbar-brand{
-  background-color: orange;
+.top{
+  padding-top: 60px;
+  height: 100vh;
+  background-image: url("IMG_20170610_115054.jpg");
+  background-repeat: no-repeat;/*画像を一枚のみ表示*/
+  background-size: cover;/*画像のサイズ変更される*/
+  background-attachment: fixed;
+}
+
+.title{
+  font-size: 70px;
 }
