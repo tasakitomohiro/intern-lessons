@@ -7,15 +7,49 @@
 .navbar{
   margin-bottom: 0px;
 }
-.top{
-  padding-top: 60px;
+body{
+  padding-top: 65px;
   height: 100vh;
   background-image: url("IMG_20170610_115054.jpg");
   background-repeat: no-repeat;/*画像を一枚のみ表示*/
   background-size: cover;/*画像のサイズ変更される*/
   background-attachment: fixed;
 }
-
+.col-md-5 img{/*割合分割*/
+  width: 100%;/*画像サイズ*/
+  margin-top: 20px;
+}
+.col-md-6 img{/*割合分割*/
+  width: 85%;/*画像サイズ*/
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.col-md-7 img{/*割合分割*/
+  width: 110%;/*画像サイズ*/
+  margin-top: 20px;
+}
+.col-md-8 img{/*割合分割*/
+  width: 95%;/*画像サイズ*/
+  margin-top: 20px;
+}
+.page-while{
+  margin-top: 75vh;
+}
 .title{
   font-size: 70px;
+}
+.haikei{
+  background-color: red;
+  height: 40vh;
+  margin-top: 20px;
+}
+.img-size{
+  width: 30%;/*画像サイズ*/
+}
+ol{
+  color: black;
+}
+.col-md-7{
+  font-size: 20px;
+  color: black;
 }
