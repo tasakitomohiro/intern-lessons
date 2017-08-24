@@ -53,3 +53,7 @@ ol{
   font-size: 20px;
   color: black;
 }
+.btn-size{
+  width: 15vh;
+  height: 15vh;
+}
