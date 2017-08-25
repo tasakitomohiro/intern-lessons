@@ -54,6 +54,21 @@ ol{
   color: black;
 }
 .btn-size{
-  width: 15vh;
-  height: 15vh;
+  width: 30%;
+}
+.popup-size img{
+  width: 100%;
+}
+.modal-content{
+  width: 130vh;
+  margin-left: -260px;
+}
+
+.container {
+  padding: 0px;
+}
+
+.section-title{
+  background-color: white;
+  width: 30%;
 }
