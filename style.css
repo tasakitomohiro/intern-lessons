@@ -1,13 +1,10 @@
-.menu{
-  background-color: ;
-}
 .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover{
   color: blue;
 }
-.navbar{
+.navbar {
   margin-bottom: 0px;
 }
-body{
+body {
   padding-top: 65px;
   height: 100vh;
   background-image: url("IMG_20170610_115054.jpg");
@@ -15,51 +12,48 @@ body{
   background-size: cover;/*画像のサイズ変更される*/
   background-attachment: fixed;
 }
-.col-md-5 img{/*割合分割*/
+.col-md-5 img {/*割合分割*/
   width: 100%;/*画像サイズ*/
   margin-top: 20px;
 }
-.col-md-6 img{/*割合分割*/
+.col-md-6 img {/*割合分割*/
   width: 85%;/*画像サイズ*/
   margin-top: 20px;
   margin-bottom: 20px;
 }
-.col-md-7 img{/*割合分割*/
+.col-md-7 img {/*割合分割*/
   width: 110%;/*画像サイズ*/
   margin-top: 20px;
 }
-.col-md-8 img{/*割合分割*/
+.col-md-8 img {/*割合分割*/
   width: 95%;/*画像サイズ*/
   margin-top: 20px;
 }
-.page-while{
+.page-while {
   margin-top: 75vh;
 }
-.title{
+.title {
   font-size: 70px;
 }
-.haikei{
+.haikei {
   background-color: red;
   height: 40vh;
   margin-top: 20px;
 }
-.img-size{
+.img-size {
   width: 30%;/*画像サイズ*/
 }
-ol{
+ol {
   color: black;
 }
-.col-md-7{
+.col-md-7 {
   font-size: 20px;
   color: black;
 }
-.btn-size{
-  width: 30%;
-}
-.popup-size img{
+.popup-size img {
   width: 100%;
 }
-.modal-content{
+.modal-content {
   width: 130vh;
   margin-left: -260px;
 }
@@ -68,7 +62,7 @@ ol{
   padding: 0px;
 }
 
-.section-title{
+.section-title {
   background-color: white;
   width: 30%;
 }
